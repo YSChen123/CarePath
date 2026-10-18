@@ -1,0 +1,90 @@
+{
+  "source": "dist/ served under /course/ without SPA fallback",
+  "results": [
+    {
+      "width": 1440,
+      "route": "home",
+      "title": "独自去医院，\n每一步都心中有数。",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "proposal",
+      "title": "不只找到路，也知道下一步。",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "research",
+      "title": "先理解经历，再讨论设计。",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "interviews",
+      "title": "把「接下来呢」问得更具体。",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "survey",
+      "title": "每一份回答，都有完整的上下文。",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "insights",
+      "title": "看见分布，也看见数据的边界。",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "team",
+      "title": "医路同行，一起把过程讲清楚。",
+      "status": 200
+    },
+    {
+      "width": 375,
+      "route": "home",
+      "title": "独自去医院，\n每一步都心中有数。",
+      "status": 200
+    },
+    {
+      "width": 375,
+      "route": "proposal",
+      "title": "不只找到路，也知道下一步。",
+      "status": 200
+    },
+    {
+      "width": 375,
+      "route": "research",
+      "title": "先理解经历，再讨论设计。",
+      "status": 200
+    },
+    {
+      "width": 375,
+      "route": "interviews",
+      "title": "把「接下来呢」问得更具体。",
+      "status": 200
+    },
+    {
+      "width": 375,
+      "route": "survey",
+      "title": "每一份回答，都有完整的上下文。",
+      "status": 200
+    },
+    {
+      "width": 375,
+      "route": "insights",
+      "title": "看见分布，也看见数据的边界。",
+      "status": 200
+    },
+    {
+      "width": 375,
+      "route": "team",
+      "title": "医路同行，一起把过程讲清楚。",
+      "status": 200
+    }
+  ],
+  "errors": []
+}

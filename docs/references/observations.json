@@ -1,0 +1,210 @@
+[
+  {
+    "name": "solace",
+    "width": 1440,
+    "status": 200,
+    "title": "Find a Patient Advocate Covered by Insurance | Solace",
+    "url": "https://www.solace.health/",
+    "h1": {
+      "text": "Make navigating healthcare easier with a patient advocate.",
+      "font": "\"Mollie Glaston\", Georgia, sans-serif",
+      "size": "64px",
+      "lineHeight": "76.8px",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 864
+    },
+    "h2": {
+      "text": "Advocates Fight for the Care You Deserve",
+      "font": "\"Mollie Glaston\", Georgia, sans-serif",
+      "size": "48px",
+      "lineHeight": "60px",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 472
+    },
+    "body": {
+      "text": "How Advocacy Works\nFind an Advocate\nResources\n\nM-F 6am-5pm PST\n\n(240) 693-3281\nSign in\nGet Started\nMake navigating healthcare easier with a patient advocate.\n\nSolace advocates fight for the treatments, approvals, and care you deserve.\nCovered by insurance nationwide.\n\nCheck Eligibility\n50K\nPatients ",
+      "font": "Lato, Arial, sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(16, 16, 16)",
+      "background": "rgb(255, 255, 255)",
+      "width": 1440
+    },
+    "nav": {
+      "text": "How Advocacy Works\nFind an Advocate\nResources",
+      "font": "Lato, Arial, sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(16, 16, 16)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 516
+    },
+    "paragraph": {
+      "text": "M-F 6am-5pm PST",
+      "font": "Lato, Arial, sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(16, 16, 16)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 0
+    }
+  },
+  {
+    "name": "solace",
+    "width": 390,
+    "status": 200,
+    "title": "Find a Patient Advocate Covered by Insurance | Solace",
+    "url": "https://www.solace.health/",
+    "h1": {
+      "text": "Make navigating healthcare easier with a patient advocate.",
+      "font": "\"Mollie Glaston\", Georgia, sans-serif",
+      "size": "48px",
+      "lineHeight": "57.6px",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 351
+    },
+    "h2": {
+      "text": "Advocates Fight for the Care You Deserve",
+      "font": "\"Mollie Glaston\", Georgia, sans-serif",
+      "size": "46.4px",
+      "lineHeight": "58px",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 358
+    },
+    "body": {
+      "text": "Make navigating healthcare easier with a patient advocate.\n\nSolace advocates fight for the treatments, approvals, and care you deserve.\nCovered by insurance nationwide.\n\nCheck Eligibility\nAdvocates Fight for the Care You Deserve\n\nYou stay focused on your health—we’ll handle the healthcare system.\n\nS",
+      "font": "Lato, Arial, sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(16, 16, 16)",
+      "background": "rgb(255, 255, 255)",
+      "width": 390
+    },
+    "nav": {
+      "text": "How Advocacy Works\n\nOverview\n  \nPatient Stories\n  \nFor Caregivers\n  \nFAQs\n  \nFind an Advocate\n\nGet Started\n  \nBrowse by Speciality\n  \nBrowse by State\n  \nResources\n\nAbout Us\n  \nArticles\n  \nMedicare Guides\n  \nRefer a Patient\n  \nContact Us\n  \nGet StartedSign in\n  \n\nM-F 6am-5pm PST\n  \n(240) 693-3281",
+      "font": "Lato, Arial, sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(16, 16, 16)",
+      "background": "rgb(255, 253, 250)",
+      "width": 0
+    },
+    "paragraph": {
+      "text": "M-F 6am-5pm PST",
+      "font": "Lato, Arial, sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(82, 82, 82)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 0
+    }
+  },
+  {
+    "name": "linear",
+    "width": 1440,
+    "status": 200,
+    "title": "Linear – The system for product development",
+    "url": "https://linear.app/",
+    "h1": {
+      "text": "The product development\nsystem for teams and agents\nThe product development system for teams and agents",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "64px",
+      "lineHeight": "64px",
+      "color": "rgb(247, 248, 248)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 1282
+    },
+    "h2": {
+      "text": "A new species of product tool. Purpose-built for modern teams with AI workflows at its core, Linear sets a new standard for planning and building products.",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "48px",
+      "lineHeight": "48px",
+      "color": "rgb(138, 143, 152)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 1250
+    },
+    "body": {
+      "text": "Skip to content →\nProduct\nResources\nCustomers\nPricing\nNow\nContact\nLog in\nSign up\nThe product development\nsystem for teams and agents\nThe product development system for teams and agents\n\nPurpose-built for planning and building products. Designed for the AI era.\n\nNew\nLoops →\nLinear\nPulse\nInbox\nMy issu",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(247, 248, 248)",
+      "background": "rgb(8, 9, 10)",
+      "width": 1440
+    },
+    "nav": {
+      "text": "Product\nResources\nCustomers\nPricing\nNow\nContact\nLog in\nSign up",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(247, 248, 248)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 1440
+    },
+    "paragraph": {
+      "text": "Purpose-built for planning and building products. Designed for the AI era.",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "15px",
+      "lineHeight": "24px",
+      "color": "rgb(138, 143, 152)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 505
+    }
+  },
+  {
+    "name": "linear",
+    "width": 390,
+    "status": 200,
+    "title": "Linear – The system for product development",
+    "url": "https://linear.app/",
+    "h1": {
+      "text": "The product development system for teams and agents\nThe product development system for teams and agents",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "38px",
+      "lineHeight": "41.8px",
+      "color": "rgb(247, 248, 248)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 343
+    },
+    "h2": {
+      "text": "A new species of product tool. Purpose-built for modern teams with AI workflows at its core, Linear sets a new standard for planning and building products.",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "24px",
+      "lineHeight": "31.92px",
+      "color": "rgb(138, 143, 152)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 359
+    },
+    "body": {
+      "text": "Skip to content →\nLog in\nSign up\nThe product development system for teams and agents\nThe product development system for teams and agents\n\nPurpose-built for planning and building products. Designed for the AI era.\n\nNew\nLoops →\nLinear\nPulse\nInbox\nMy issues\nReviews\nWorkspace\nInitiatives\nProjects\nMore\nF",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(247, 248, 248)",
+      "background": "rgb(8, 9, 10)",
+      "width": 390
+    },
+    "nav": {
+      "text": "Log in\nSign up",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "16px",
+      "lineHeight": "24px",
+      "color": "rgb(247, 248, 248)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 390
+    },
+    "paragraph": {
+      "text": "Purpose-built for planning and building products. Designed for the AI era.",
+      "font": "\"Inter Variable\", \"SF Pro Display\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "size": "15px",
+      "lineHeight": "24px",
+      "color": "rgb(138, 143, 152)",
+      "background": "rgba(0, 0, 0, 0)",
+      "width": 276
+    }
+  }
+]

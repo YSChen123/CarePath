@@ -1,0 +1,789 @@
+SLIDE 1
+Human-Computer Interaction
+7.
+ 
+Mental Model (2)
+1
+
+SLIDE 2
+Hall of Fame or Shame?
+2
+
+SLIDE 3
+Hall of Shame!
+Error Messages
+Where is error?
+What’s wrong with it?
+Parse it & fix it yourself!
+3
+
+SLIDE 4
+Hall of Fame or Shame?
+4
+Design based on a top retailer’s site
+In study, user could not get by this screen, why?
+
+SLIDE 5
+Hall of Shame!
+Design based on a top retailer’s site
+In study, user could not get by this screen, why?
+Color deficiency
+can’t distinguish between red & green
+How to fix?
+redundant cues
+5
+
+SLIDE 6
+“How your mind thinks that something works” 
+Recap: Mental model
+6
+
+SLIDE 7
+“The models people have of themselves, others, the environment and the things with which they interact. People form mental models through experience, training and instruction”
+An explanation of someone's thought process about how something works in the real world
+Enable people to reason about a system
+Affect the way we see and interpret reality
+When users approach an unfamiliar system, they subconsciously refer to their mental model, 
+User’s model
+Recap: Mental model
+7
+
+SLIDE 8
+Recap: User’s vs. designer’s model
+As a designer, you want to use the system’s UI to accurately
+convey your mental model of the system to the user.
+the conceptual model of the system to be built
+the way the user interprets the System Image
+8
+
+SLIDE 9
+Today’s agenda
+Model human processor
+Perceptual processor
+Working memory
+Cognitive processor
+Motor processor
+9
+
+SLIDE 10
+Model Human Processor
+10
+
+SLIDE 11
+The Model Human Processor
+Published by Card, Moran & Newell, 1983, in the book “The Psychology of Human-Computer Interaction” 
+Calculate how long it takes to perform a certain task
+Consider humans as information processing systems
+Consist of three interacting processors
+Perceptual processor: Responsible for transforming external environment into a form that cognitive system can process
+Cognitive processor: Uses contents of working memory and long-term memory to make decisions and schedule actions with motor system
+motor processor: Translates thoughts into actions
+11
+
+SLIDE 12
+Why is MHP Useful?
+Use model to:
+Predict and compare usability of different interface designs 
+Task performance, learnability, and error rates
+No users or functional prototype required!
+Apply model to predict effectiveness of new interfaces
+Develop guidelines for interface design: Color, spatial layout, recall, response rates, etc.
+12
+
+SLIDE 13
+13
+
+SLIDE 14
+(1) Perceptual processor
+Perceptual processor is responsible for transforming external environment into a form that cognitive system can process.
+Physical store from our senses: sight, sound, touch,…
+Code directly based on sense used
+Visual, audio, haptic, … features
+Decay time for working memory: 200ms
+14
+
+SLIDE 15
+Pre-attentive Processing
+Preattentive
+: a limited set of visual properties that are detected very rapidly and accurately by the low-level visual system without our conscious action. 
+All available information is pre-attentively processed. Then, the brain filters and processes what is important.
+It takes less than 500 milliseconds for the eye and the brain to process a 
+preattentive
+ property of any image.
+These properties can be harnessed to make it easier for a user to understand what is presented through the design unconsciously.
+It allows the designer to grab the attention of the user without their input or effort.
+15
+https://www.youtube.com/watch?v=09jy3Znji74
+
+SLIDE 16
+Pre-attentive Processing
+Three
+ 
+preattentive
+ visual properties as follows:
+Color
+Form
+Movement
+16
+
+SLIDE 17
+How many 3’s?
+1281768756138976546984506985604982826762
+9809858458224509856458945098450980943585
+9091030209905959595772564675050678904567
+8845789809821677654876364908560912949686
+17
+
+SLIDE 18
+How many 3’s?
+12817687561
+3
+8976546984506985604982826762
+980985845822450985645894509845098094
+3
+585
+90910
+3
+0209905959595772564675050678904567
+8845789809821677654876
+3
+64908560912949686
+18
+
+SLIDE 19
+Visual pop-out: color (hue)
+Resources from : https://www.csc2.ncsu.edu/faculty/
+healey
+/PP/
+index.html
+19
+
+SLIDE 20
+Visual pop-out: shape (curvature)
+Resources from : https://www.csc2.ncsu.edu/faculty/
+healey
+/PP/
+index.html
+20
+
+SLIDE 21
+Feature conjunctions
+Resources from : https://www.csc2.ncsu.edu/faculty/
+healey
+/PP/
+index.html
+21
+
+SLIDE 22
+Change blindness
+22
+
+SLIDE 23
+Change blindness
+23
+
+SLIDE 24
+Change blindness
+A perceptual phenomenon that occurs when a change in a visual stimulus is introduced and the observer does not notice it
+Our visual intelligence can only detect changes in those parts of the image to which we explicitly attend.
+People often overlook new visual details added to an existing image. This change blindness can affect critical information such as error messages and navigation menus, leading to user confusion and task failure. Luckily, with the right visual presentation you can dramatically reduce the likelihood of change blindness.
+24
+
+SLIDE 25
+Change blindness
+25
+
+SLIDE 26
+Processors:
+Perceptual
+Cognitive
+Motor
+Memory:
+Working memory
+Long-term memory
+26
+
+SLIDE 27
+Working memory
+Working memory is small
+Temporary storage
+Decay in 200ms
+Working memory holds intermediate products of thinking and representations produced by perceptual system
+Comprised of activated sections of LTM called “chunks”
+A chunk is a hierarchical symbol structure
+7 
+±
+ 2 chunks active at any given time
+27
+
+SLIDE 28
+35 x 6
+A scratch-pad for temporary recall of information
+Accessed rapidly: about 70ms
+Decays rapidly: about 200ms
+Working memory / Short Term Memory
+28
+
+SLIDE 29
+Short Term Memory
+Two measures for memory capacity
+Determine the length of a sequence which can be remembered in order
+Freely recalled in any order
+4048942000
+29
+
+SLIDE 30
+30
+Shor
+t 
+Term Memory
+404-894-2000
+
+SLIDE 31
+About Chunks
+A chunk is a meaningful grouping of information – allows assistance from LTM
+4793619049 vs. 704 687 8376
+NSAFBICIANASA vs. NSA FBI CIA NASA
+My chunk may not be your chunk
+User and task dependent
+31
+
+SLIDE 32
+Short Term Memory
+Use “chunks”:  7 +- 2 units of information
+Symbolic, nonphysical acoustic or visual coding
+Decay 5-226 sec, rehearsal prevents decay
+Another task prevents rehearsal - interference
+32
+
+SLIDE 33
+The Magic number 7 
+± 
+2
+George Miller’s theory of how much information people can remember
+People’s immediate memory capacity is very limited
+The number of objects an average human can hold in working memory (short-term) is 7±2
+“Chunking”: breaking up long strings of information into units
+33
+
+SLIDE 34
+Chunking
+34
+
+SLIDE 35
+Chunking
+35
+
+SLIDE 36
+Chunking
+Hierarchy
+36
+
+SLIDE 37
+When to Use Chunking in UI
+The primary purpose of chunking is the enhancement of working memory.
+Ideal when specific information must be memorized for later use
+Ideal in environments where an interface must compete against other stimuli for the attention or working memory of the end user (car navigation systems, cell phone, public kiosks)
+Effective use of chunking can improve the usability and effectiveness of an information system.
+37
+
+SLIDE 38
+When Not to Use Chunking in UI
+The primary purpose of chunking is the enhancement of working memory.
+Should not be used when the information must be searched, scanned, or analyzed
+Search engine results are an example of information that does not need to be memorized
+Should not be used as an argument for improved simplicity, legibility, or uncluttered page design
+38
+
+SLIDE 39
+Long-Term Memory
+Seemingly permanent & unlimited
+Access is harder, slower
+-> Activity helps (we have a cache)
+Retrieval depends on network of associations
+How information is perceived, understood and encoded determines likelihood of retrieval
+File system full
+39
+
+SLIDE 40
+Long-term Memory
+Seemingly permanent & unlimited
+Access is harder, slower (Activity helps)
+Episodic memory
+Events & experiences in serial form
+Helps us recall what occurred
+Semantic memory
+Structured record of facts, concepts & skills
+One theory says it’s like a network
+Another uses frames & scripts
+40
+
+SLIDE 41
+LT  Memory Structure
+41
+
+SLIDE 42
+LT  Memory Structure
+https://academic-accelerator.com/encyclopedia/zh-cn/semantic-memory
+42
+
+SLIDE 43
+https://academic-accelerator.com/encyclopedia/zh-cn/semantic-memory
+43
+
+SLIDE 44
+LT Memory Processes
+Store / Remembering information:
+Things move from STM to LTM by rehearsal & practice and by use in context
+Total time hypothesis
+Distribution of practice effect
+Visualize, Sentences
+Faith Age Cold Tenet Quiet Logic Idea Value
+Boat Tree Cat Child Rug Plate Church Gun
+44
+
+SLIDE 45
+LT Memory Processes
+Forgetting
+We 
+forget
+ things due to 
+decay
+ and 
+interference
+Similar gets in the way
+Whether we actually forget anything or whether it just become increasingly difficult to access items from memory?
+45
+
+SLIDE 46
+Information Retrieval
+We 
+recognize
+ information easier than we can 
+recall
+ information
+Examples?
+Implications?
+LT Memory Processes
+46
+
+SLIDE 47
+Recognition over recall
+Recall – information reproduced from memory
+Recognition
+– Presentation of information provides cues that information has been encountered before
+– Easier because of cues (context) for retrieval
+47
+
+SLIDE 48
+Recognition over recall
+Command line interface (recall) vs. GUI (recognition) interface
+48
+
+SLIDE 49
+49
+
+SLIDE 50
+(2) Cognitive processor
+Cognitive processor uses contents of working memory and long-term memory to make decisions and schedule actions with motor system
+Typical matching time
+Digits: 33ms
+Colors: 38ms
+Geometry: 50ms…
+Decision time increases with the uncertainty about the judgment to be made, which requires more cognitive cycles.
+50
+
+SLIDE 51
+Selective Attention
+We can focus on one particular thing
+Cocktail party chit-chat
+Salient visual/auditory cues facilitate s.a.
+Examples? 
+Boldface, blinking and beeping
+Visual or Auditory 
+Streams
+ form after a few seconds
+51
+
+SLIDE 52
+Selective attention
+https://
+www.youtube.com
+/
+watch?v
+=vJG698U2Mvo
+52
+
+SLIDE 53
+Selective attention (Tunnel Vision)
+“Users don't see stuff that's right on the screen. Selective attention makes people overlook things outside their focus of interest.”
+The act of focusing on a particular object for a period of time while simultaneously ignoring irrelevant information that is also occurring
+This occurs on a daily basis and can be seen in basically any of your interactions. Because it is impossible to give attention to every stimulus in our environment, we use selective attention to select what stimuli are important as events occur.
+53
+
+SLIDE 54
+Selective Attention
+54
+
+SLIDE 55
+Learning
+Two types:
+Procedural – How to do something
+Declarative – Facts about something
+Involves
+Understanding concepts & rules
+Memorization
+Acquiring motor skills
+Automotization
+Tennis
+Driving to work 
+Even when don’t want to
+Swimming, Bike riding, Typing, Writing
+55
+
+SLIDE 56
+Learning
+Facilitated
+By structure & organization
+By similar knowledge, as in consistency in UI design
+By analogy
+If presented in incremental units
+Repetition
+Hindered
+By previous knowledge
+Try moving from Mac to Windows
+=> Consider user’s previous knowledge in your interface design
+56
+
+SLIDE 57
+Problem Solving
+Storage in LTM, then application
+Reasoning
+Deductive -
+Inductive -
+Abductive
+ -
+Goal in UI design - facilitate problem solving!
+How??
+If A, then B
+Generalizing from previous
+cases to learn about new ones
+Reasons from a fact to the
+action or state that caused it
+57
+
+SLIDE 58
+Observations (for UI design)
+Users focus on getting job done, not learning to effectively use system
+Users apply analogy even when it doesn’t apply
+Or extend it too far - which is a design problem
+Dragging floppy disk icon to Mac’s trash can does NOT erase the disk, it ejects disk!
+58
+
+SLIDE 59
+Observations (for UI design)
+We are more heuristic than algorithmic
+We try a few quick shots rather than plan
+Resources simply not available
+We often choose suboptimal strategies for low priority problems
+We learn better strategies with practice
+59
+
+SLIDE 60
+Implications (for UI design)
+Allow flexible shortcuts
+Forcing plans will bore user
+Have active rather than passive help
+Recognize waste
+60
+
+SLIDE 61
+61
+
+SLIDE 62
+(4) Motor processor
+Receive input from the cognitive processor and translates thoughts into actions
+Execute motor programs
+Pianist: up to 16 finger movements per second
+62
+
+SLIDE 63
+People
+Good
+xxx
+yyy
+zzz
+Bad
+aaa
+bbb
+ccc
+Fill in the columns - what are people good at and what are people bad at?
+63
+
+SLIDE 64
+People
+Good
+Infinite capacity LTM
+LTM duration & complexity
+High-learning capability
+Powerful attention mechanism
+Powerful pattern recognition
+Bad
+Limited capacity STM
+Limited duration STM
+Unreliable access to LTM
+Error-prone processing
+Slow processing
+Computer is opposite!
+Allow one who does it
+best to do it!
+(Function allocation)
+64
+
+SLIDE 65
+The Model Human Processor
+Developed by Card, Moran, & Newell (’83)
+based on empirical data
+65
+
+SLIDE 66
+The Model Human Processor
+Developed by Card, Moran, & Newell (’83)
+based on empirical data
+66
+Long-term Memory
+Working Memory
+Visual Image
+Store
+Auditory Image
+Store
+Perceptual
+Processor
+Cognitive
+Processor
+Motor
+Processor
+Eyes
+Ears
+Fingers, etc.
+sensory
+buffers
+
+SLIDE 67
+MHP Basics
+Sometimes serial, sometimes parallel
+serial in action & parallel in recognition
+pressing key in response to light
+driving, reading signs, & hearing at once
+Parameters
+processors have cycle time (T) ~ 100-200 
+ms
+memories have capacity, decay time, & type
+67
+
+SLIDE 68
+What is missing from MHP?
+Haptic memory
+for touch
+Moving from sensory memory to WM
+attention filters stimuli & passes to WM
+Moving from WM to LTM
+elaboration
+68
+
+SLIDE 69
+Memory
+Working memory (short term)
+small capacity (7 ± 2 “chunks”)
+6174591765 vs. (617) 459-1765
+DECIBMGMC vs. DEC IBM GMC
+rapid access (~ 70ms) & decay (~200 
+ms
+)
+pass to LTM after a few seconds of continued storage
+Long-term memory
+huge (if not “unlimited”)
+slower access time (~100 
+ms
+) w/ little decay
+69
+
+SLIDE 70
+MHP Principles of Operation
+Recognize-Act Cycle of the CP
+on each cycle contents in WM initiate actions associatively linked to them in LTM
+actions modify the contents of WM
+Discrimination Principle
+retrieval is determined by candidates that exist in memory relative to retrieval cues
+interference by strongly activated chunks
+70
+
+SLIDE 71
+Fitts’s
+ law
+71
+
+SLIDE 72
+Fitts’s
+ law
+Fitts’s
+ law predict the amount of time taken to move to and select a target
+It is faster to hit larger targets close to you than smaller targets further from you
+T
+ = 
+a
+ + 
+blog
+ (D / 
+S
+ +1)
+a, b = constants (empirically derived)
+D = distance
+S = size 
+T increases as the distance to the target increases
+T decreases as the size of the target increases 
+72
+
+SLIDE 73
+Applying 
+Fitts’s
+ law to UI design
+Bring items closer to the cursor
+Increase the target size
+Exploit the edges
+73
+
+SLIDE 74
+Applying 
+Fitts’s
+ law to UI design
+74
+
+SLIDE 75
+Applying 
+Fitts’s
+ law to UI design
+75
+
+SLIDE 76
+Applying 
+Fitts’s
+ law to UI design
+76
+
+SLIDE 77
+Applying 
+Fitts’s
+ law to UI design
+77
+
+SLIDE 78
+Does 
+Fitts’s
+ law apply to mobile devices?
+Yes! Original experiment by 
+Fitts
+ was on human arm movement, not mouse pointing!
+Extension to target acquisition with mouse was a big result of Card et al. and not obvious.
+Tablet setting is closer to original experimental setting.
+No more benefit on device edges
+How device is held is important
+78
+
+SLIDE 79
+79
+
+SLIDE 80
+80
+
+SLIDE 81
+Processors:
+Perceptual
+Cognitive
+Motor
+Memory:
+Working memory
+Long-term memory
+The Model Human Processor
+81
+
+SLIDE 82
+Hit Space when character appears
+A
+A
+A
+Tp
+: 100ms
+Tc
+: 70ms
+Tm: 70ms
+Perceive-Recognize-Act cycle ~= 240 
+ms
+82
+
+SLIDE 83
+Hit Space when character appears
+A
+A
+A
+Tp
+Tc
+Tm
+83
+
+SLIDE 84
+Group project
+84
+
+SLIDE 85
+P3. Collecting Data
+Collect interview data from 4 potential users (3 for 
+TechTrio
+ 
+and 
+TrafficTighten
+),  and collect survey data from 10+ potential users. Submit the collected data.
+Create a project website. 
+Submit:
+Interview transcripts
+Survey data: Raw data in a table 
+Link to the website
+#Disclaimer. Further instruction of this submission can be given verbally during class or through Piazza.
+85
+
+SLIDE 86
+P3. Collecting Data
+Format
+Add a team name and a description of your project proposal on top
+Link to your project website on top
+Should be accessible
+Should have following contents (no link to a 
+pdf
+ file):
+Team intro
+Project Proposal
+Data collection plan: Interview/survey
+A PDF file, 12 point scale in Times New Roman, 1.5 line spacing
+Include: Who contributed to the original writing of each section and who helped improve and/or review at the end
+#Disclaimer. Further instruction of this submission can be given verbally during class or through Piazza.
+86
+
+SLIDE 87
+P3. Collecting Data
+Rubric 
+Interview scripts (3pt)
+-1pt per missing one interview 
+You will lose significant points if there are not enough impromptu "follow-up" questions to follow up with an interviewee's answer (e.g., what/why/how questions)
+Survey data (2pt)
+You will lose 50% if your submission does not follow the format
+You will lose 30% if it’s a late submission (Not accepting a late submission after 24 
+hrs
+)
+#Disclaimer. Further instruction of this submission can be given verbally during class or through Piazza.
+87
+
+SLIDE 88
+By next class
+Reading
+Contextual Design. Ch.9
+88

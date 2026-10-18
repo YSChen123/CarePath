@@ -1,0 +1,17 @@
+{
+  "pages": 52,
+  "fonts": [
+    "SimSun",
+    "TimesNewRomanPS-BoldMT",
+    "TimesNewRomanPSMT"
+  ],
+  "sizes_pt": [
+    12.0
+  ],
+  "checked_turns": 272,
+  "checked_answers": 330,
+  "page_boundary_issues": [],
+  "body_line_height": "CSS 18pt / 12pt = 1.5",
+  "url": "待填写实际公网URL",
+  "contribution": "原稿已知分节归属保留，缺失的本轮PDF逐节署名待确认"
+}

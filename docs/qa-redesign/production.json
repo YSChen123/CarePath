@@ -1,0 +1,54 @@
+{
+  "source": "dist/ served under /course/ without SPA fallback",
+  "results": [
+    {
+      "width": 1440,
+      "route": "home",
+      "title": "第一次独自就诊，\n也知道下一步去哪。",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "research",
+      "title": "数据收集计划",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "interviews",
+      "title": "访谈记录",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "survey",
+      "title": "问卷数据",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "home",
+      "title": "第一次独自就诊，\n也知道下一步去哪。",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "research",
+      "title": "数据收集计划",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "interviews",
+      "title": "访谈记录",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "survey",
+      "title": "问卷数据",
+      "status": 200
+    }
+  ],
+  "errors": []
+}

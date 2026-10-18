@@ -1,0 +1,102 @@
+[
+  {
+    "width": 1440,
+    "route": "home",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "team",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "proposal",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research/interviews",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research/interviews?person=I03",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research/survey",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research/survey?view=table",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research/survey?q=Q16",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research/survey?q=Q22",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research/survey?view=individual&person=R04",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "home",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "team",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "proposal",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "research/interviews",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "research/interviews?person=I03",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "research/survey",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "research/survey?view=table",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "research/survey?q=Q16",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "research/survey?q=Q22",
+    "violations": []
+  },
+  {
+    "width": 390,
+    "route": "research/survey?view=individual&person=R04",
+    "violations": []
+  }
+]

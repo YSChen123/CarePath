@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.tools/
+test-results/
+playwright-report/
+*.tsbuildinfo
+
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+*.pem
+
+# Local submission materials
+submission/
+
+# Editor and temporary files
+.vscode/
+*.log

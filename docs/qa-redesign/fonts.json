@@ -1,0 +1,24 @@
+[
+  {
+    "selector": "h1",
+    "fonts": [
+      {
+        "familyName": "Microsoft YaHei",
+        "postScriptName": "MicrosoftYaHei",
+        "isCustomFont": false,
+        "glyphCount": 17
+      }
+    ]
+  },
+  {
+    "selector": ".hero-description",
+    "fonts": [
+      {
+        "familyName": "Microsoft YaHei",
+        "postScriptName": "MicrosoftYaHei",
+        "isCustomFont": false,
+        "glyphCount": 53
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "width": 1440,
+    "q": "Q1",
+    "scrollWidth": 1440,
+    "fonts": {
+      "meta": "15px",
+      "response": "17px",
+      "chartLabel": "16px"
+    }
+  },
+  {
+    "width": 1440,
+    "q": "Q7",
+    "scrollWidth": 1440,
+    "fonts": {
+      "meta": "15px",
+      "response": "17px",
+      "chartLabel": "16px"
+    }
+  },
+  {
+    "width": 1440,
+    "q": "Q16",
+    "scrollWidth": 1440,
+    "fonts": {
+      "meta": "15px",
+      "response": "17px",
+      "chartLabel": "16px"
+    }
+  },
+  {
+    "width": 1440,
+    "q": "Q22",
+    "scrollWidth": 1440,
+    "fonts": {
+      "meta": "15px",
+      "response": "17px",
+      "chartLabel": null
+    }
+  },
+  {
+    "width": 390,
+    "q": "Q1",
+    "scrollWidth": 390,
+    "fonts": {
+      "meta": "15px",
+      "response": "17px",
+      "chartLabel": "15px"
+    }
+  },
+  {
+    "width": 390,
+    "q": "Q7",
+    "scrollWidth": 390,
+    "fonts": {
+      "meta": "15px",
+      "response": "17px",
+      "chartLabel": "15px"
+    }
+  },
+  {
+    "width": 390,
+    "q": "Q16",
+    "scrollWidth": 390,
+    "fonts": {
+      "meta": "15px",
+      "response": "17px",
+      "chartLabel": "15px"
+    }
+  },
+  {
+    "width": 390,
+    "q": "Q22",
+    "scrollWidth": 390,
+    "fonts": {
+      "meta": "15px",
+      "response": "17px",
+      "chartLabel": null
+    }
+  }
+]

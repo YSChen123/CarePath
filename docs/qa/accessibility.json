@@ -1,0 +1,102 @@
+[
+  {
+    "width": 1440,
+    "route": "home",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "proposal",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "research?view=survey",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "interviews",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "survey",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "survey?view=questions",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "survey?view=individual",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "insights",
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "route": "team",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "home",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "proposal",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "research",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "research?view=survey",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "interviews",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "survey",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "survey?view=questions",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "survey?view=individual",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "insights",
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "team",
+    "violations": []
+  }
+]

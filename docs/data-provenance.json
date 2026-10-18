@@ -1,0 +1,61 @@
+{
+  "confirmation": "用户于2026-10-18确认：现有回答已核实可用，仅旧来源标记未更新。",
+  "survey_master": "问卷15份大学生模拟原始数据.xlsx",
+  "worksheet": "问卷15份原始数据",
+  "interview_masters": [
+    "interviews\\I01_大学生模拟访谈.md",
+    "interviews\\I02_大学生模拟访谈.md",
+    "interviews\\I03_大学生模拟访谈.md",
+    "interviews\\I04_大学生模拟访谈.md"
+  ],
+  "files": {
+    "问卷15份大学生模拟原始数据.xlsx": {
+      "sha256": "1ba5e5b8d084f250f0e3f2ea2935b19f17cdb6c037b5cb04899e4e722d75c10c",
+      "modified": 1792295034.960043,
+      "bytes": 18635
+    },
+    "interviews\\I01_大学生模拟访谈.md": {
+      "sha256": "cfc40fd00b6cfa26613ab3aecbe1c83a392e30a63154e636bc325c8f75620597",
+      "modified": 1792295034.9144006,
+      "bytes": 9294
+    },
+    "interviews\\I02_大学生模拟访谈.md": {
+      "sha256": "be03f83a266a0b4116de748913f42819e3225965e1d288488029d89af9f4b337",
+      "modified": 1792295034.919036,
+      "bytes": 8504
+    },
+    "interviews\\I03_大学生模拟访谈.md": {
+      "sha256": "c2c3100fb6f3e26b9161368ad9d249279ba71655ebc7968386e22a16cd798987",
+      "modified": 1792295034.919036,
+      "bytes": 8599
+    },
+    "interviews\\I04_大学生模拟访谈.md": {
+      "sha256": "1b1d55f533a060f9f6afe7c62b9ee3527e5f140f93f09c00ba3086e32fb89cd8",
+      "modified": 1792295034.9245474,
+      "bytes": 8509
+    },
+    "data\\survey_questions.json": {
+      "sha256": "de1256973e4f55c043708ab99111a9daa0f23878831b3031d2e521b8b01f895f",
+      "modified": 1792295034.891537,
+      "bytes": 9095
+    },
+    "data\\interview_guide.json": {
+      "sha256": "c5955320c2c88b321d9a1ac221a024a7b0d88d4e151f2761a25bf355fdb0f7dd",
+      "modified": 1792295034.8744948,
+      "bytes": 4118
+    },
+    "data\\project.json": {
+      "sha256": "4eed49cf48ba48fcd5676cba792473493f64b77e06d99985a2a403772b1a49d1",
+      "modified": 1792295034.8895314,
+      "bytes": 1388
+    }
+  },
+  "counts": {
+    "interviews": 4,
+    "turns": 272,
+    "questions": 22,
+    "respondents": 15,
+    "answers": 330
+  },
+  "legacy_fields": "仅忽略旧管理元数据，原始文件不变。未读取旧website_seed.json来生成记录。"
+}

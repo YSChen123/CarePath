@@ -1,0 +1,100 @@
+[
+  {
+    "name": "desktop",
+    "route": "home",
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "h1": "独自去医院，\n每一步都心中有数。"
+  },
+  {
+    "name": "desktop",
+    "route": "proposal",
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "h1": "不只找到路，也知道下一步。"
+  },
+  {
+    "name": "desktop",
+    "route": "research",
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "h1": "先理解经历，再讨论设计。"
+  },
+  {
+    "name": "desktop",
+    "route": "interviews",
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "h1": "把「接下来呢」问得更具体。"
+  },
+  {
+    "name": "desktop",
+    "route": "survey",
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "h1": "每一份回答，都有完整的上下文。"
+  },
+  {
+    "name": "desktop",
+    "route": "insights",
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "h1": "看见分布，也看见数据的边界。"
+  },
+  {
+    "name": "desktop",
+    "route": "team",
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "h1": "医路同行，一起把过程讲清楚。"
+  },
+  {
+    "name": "mobile",
+    "route": "home",
+    "scrollWidth": 375,
+    "viewport": 375,
+    "h1": "独自去医院，\n每一步都心中有数。"
+  },
+  {
+    "name": "mobile",
+    "route": "proposal",
+    "scrollWidth": 375,
+    "viewport": 375,
+    "h1": "不只找到路，也知道下一步。"
+  },
+  {
+    "name": "mobile",
+    "route": "research",
+    "scrollWidth": 375,
+    "viewport": 375,
+    "h1": "先理解经历，再讨论设计。"
+  },
+  {
+    "name": "mobile",
+    "route": "interviews",
+    "scrollWidth": 375,
+    "viewport": 375,
+    "h1": "把「接下来呢」问得更具体。"
+  },
+  {
+    "name": "mobile",
+    "route": "survey",
+    "scrollWidth": 375,
+    "viewport": 375,
+    "h1": "每一份回答，都有完整的上下文。"
+  },
+  {
+    "name": "mobile",
+    "route": "insights",
+    "scrollWidth": 375,
+    "viewport": 375,
+    "h1": "看见分布，也看见数据的边界。"
+  },
+  {
+    "name": "mobile",
+    "route": "team",
+    "scrollWidth": 375,
+    "viewport": 375,
+    "h1": "医路同行，一起把过程讲清楚。"
+  }
+]

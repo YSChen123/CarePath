@@ -1,0 +1,58 @@
+[
+  {
+    "name": "desktop",
+    "route": "home",
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "h1": "第一次独自就诊，\n也知道下一步去哪。"
+  },
+  {
+    "name": "desktop",
+    "route": "research",
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "h1": "数据收集计划"
+  },
+  {
+    "name": "desktop",
+    "route": "interviews",
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "h1": "访谈记录"
+  },
+  {
+    "name": "desktop",
+    "route": "survey",
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "h1": "问卷数据"
+  },
+  {
+    "name": "mobile",
+    "route": "home",
+    "viewport": 390,
+    "scrollWidth": 390,
+    "h1": "第一次独自就诊，\n也知道下一步去哪。"
+  },
+  {
+    "name": "mobile",
+    "route": "research",
+    "viewport": 390,
+    "scrollWidth": 390,
+    "h1": "数据收集计划"
+  },
+  {
+    "name": "mobile",
+    "route": "interviews",
+    "viewport": 390,
+    "scrollWidth": 390,
+    "h1": "访谈记录"
+  },
+  {
+    "name": "mobile",
+    "route": "survey",
+    "viewport": 390,
+    "scrollWidth": 390,
+    "h1": "问卷数据"
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "source": "dist/ served under /course/ without SPA fallback",
+  "results": [
+    {
+      "width": 1440,
+      "route": "home",
+      "title": "第一次独自去医院，\n下一步怎么走？",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "team",
+      "title": "团队介绍",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "proposal",
+      "title": "项目提案",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "research",
+      "title": "数据收集计划",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "research/interviews",
+      "title": "数据收集计划",
+      "status": 200
+    },
+    {
+      "width": 1440,
+      "route": "research/survey",
+      "title": "数据收集计划",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "home",
+      "title": "第一次独自去医院，\n下一步怎么走？",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "team",
+      "title": "团队介绍",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "proposal",
+      "title": "项目提案",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "research",
+      "title": "数据收集计划",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "research/interviews",
+      "title": "数据收集计划",
+      "status": 200
+    },
+    {
+      "width": 390,
+      "route": "research/survey",
+      "title": "数据收集计划",
+      "status": 200
+    }
+  ],
+  "errors": []
+}
